@@ -1,8 +1,5 @@
 streamlit==1.48.1
-streamlit-webrtc==0.63.4
 deepface==0.0.94
 opencv-python==4.12.0.88
 mediapipe==0.10.14
-imutils==0.5.4
-av=14.4.0
 numpy==2.1.3
