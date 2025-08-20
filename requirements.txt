@@ -3,3 +3,4 @@ deepface==0.0.94
 opencv-python==4.12.0.88
 mediapipe==0.10.14
 numpy==2.1.3
+tf-keras
